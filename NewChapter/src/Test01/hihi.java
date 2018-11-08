@@ -6,6 +6,7 @@ public class hihi {
 		public static void main(String[] args) {
 	Scanner sc=new Scanner(System.in);
 	
+	// 수 정 쓰 
 	int b =0;
 	int money =0;
 	int temp=1;
